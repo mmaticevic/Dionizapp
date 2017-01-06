@@ -7,13 +7,13 @@ if($_SERVER["SERVER_NAME"]==="localhost"){
 	$server="localhost";
 	$imeBaze="b6_19192081_vina";
 	$korisnik="root";
-	$lozinka="statebriga11";
+	$lozinka="";
 }else{
 	$putanja="/Dionizapp/";
 	$server="sql211.byethost6.com";
 	$imeBaze="b6_19192081_vina";
 	$korisnik="b6_19192081";
-	$lozinka="statebriga11";
+	$lozinka="";
 }
 
 
