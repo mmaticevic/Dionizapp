@@ -1,2 +1,0 @@
-# Dionizapp
-Wine shop
