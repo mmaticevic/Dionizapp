@@ -3,7 +3,7 @@
 								<div class="single-products">
 									<div class="productinfo text-center">
 										<a href="#">  <img src="images/nepoznato.jpg" alt="" />
-</a>
+										</a>
 										<h2><?php echo $vino->cijena ?> kn</h2>
 										<h5><?php echo $vino->sorta_vina ?></h5>
 										<p><?php echo $vino->naziv ?></p>
