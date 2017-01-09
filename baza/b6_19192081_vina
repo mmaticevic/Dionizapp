@@ -96,7 +96,7 @@ alter table narudzba add foreign key (vino) references vino(id);
 
 insert into operater (email,lozinka,uloga,aktivan)
 values ('admin',md5('admin'),'administrator',true),
-('mmaticevic@gmail.com',md5('statebriga11'),'korisnik',true);
+('mmaticevic@gmail.com',md5(''),'korisnik',true);
 
 /** M J E S T O **/
 
