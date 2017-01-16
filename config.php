@@ -1,5 +1,5 @@
  <?php
-include_once 'config.php';
+
 session_start();
 
 if($_SERVER["SERVER_NAME"]==="localhost"){
